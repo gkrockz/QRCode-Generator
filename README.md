@@ -2,7 +2,7 @@
 
 ### Output:                                                              
 <br>            
-<img src="Output.jpg" alt="Sample-Output">
+<img src="Output.png" alt="Sample-Output">
 
 ---
 
