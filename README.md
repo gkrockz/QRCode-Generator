@@ -1,11 +1,11 @@
 ## QRCode-Generator
 
-### Output:                                                              
+## Output:                                                              
 <br>            
 <img src="Output.png" alt="Sample-Output">
 
 ---
 
-###  Generated QR-Code:
+##  Generated QR-Code:
 <img src="QRCode.jpg" height=250px alt="QR">
 
