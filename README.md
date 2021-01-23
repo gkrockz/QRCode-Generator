@@ -2,10 +2,10 @@
 
 ### Output:                                                              
 <br>            
-<img src="Output.png" alt="Sample-Output">
+<img src="Img/Output.png" alt="Sample-Output">
 
 ---
 
 ###  Generated QR-Code:
-<img src="QRCode.jpg" height=250px alt="QR">
+<img src="Img/QRCode.jpg" height=250px alt="QR">
 
