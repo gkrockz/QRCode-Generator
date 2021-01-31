@@ -1,4 +1,4 @@
-## QRCode-Generator
+## QRCode-Generator <img src = "QR-Logo.gif" alt="Logo">
 
 ### Output:                                                              
 <br>            
@@ -13,3 +13,5 @@
 ### Reference:
 
 💠 For More Reference, Visit 📑 [PyQRCode](https://pypi.org/project/PyQRCode/).
+
+💠 Purpose Of QR Codes 👉🏻 [QRCode](https://www.qr-code-generator.com/qr-code-marketing/why-should-i-use-qr-codes/).
