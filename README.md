@@ -1,4 +1,8 @@
-## QRCode-Generator ![Logo](Img/QR-Logo.gif)
+## QRCode-Generator 
+<p align="center">
+  <img width="100" height="100" src="Img/QR-Logo.gif" alt="Logo">
+</p>
+<img>
 
 ### Output:                                                              
 <br>            
