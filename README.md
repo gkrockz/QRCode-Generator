@@ -1,6 +1,6 @@
 ## QRCode-Generator 
 <p align="center">
-  <img width="200" height="200" src="Img/QR-Logo.gif" alt="Logo">
+  <img width="250" height="250" src="Img/QR-Logo.gif" alt="Logo">
 </p>
 <img>
 
