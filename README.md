@@ -2,6 +2,7 @@
 <p align="center">
   <img width="250" height="250" src="Img/QR-Logo.gif" alt="Logo">
 </p>
+
 ### Output:                                                              
 <br>            
 <img src="Img/Output.png" alt="Sample-Output">
