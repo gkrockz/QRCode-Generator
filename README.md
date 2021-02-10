@@ -8,6 +8,7 @@
 <p align="center">           
 <img src="Img/Output.png" alt="Sample-Output">
 </p>
+
 ---
 
 ###  Generated QR-Code:
