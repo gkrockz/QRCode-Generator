@@ -3,7 +3,7 @@
   <img width="250" height="250" src="Img/QR-Logo.gif" alt="Logo">
 </p>
 
-### ➡ Output:                                                              
+### > Output:                                                              
 <br> 
 <p align="center">           
 <img src="Img/Output.png" alt="Sample-Output">
@@ -11,14 +11,15 @@
 
 ---
 
-### ➡ Generated QR-Code:
+### > Generated QR-Code:
 <br>
 <p align="center">
 <img src="Img/QRCode.jpg" height=250px alt="QR">
 </p>
+
 ---
 
-### ➡ Reference:
+### > Reference:
 
 💠 For More Reference, Visit 📑 [PyQRCode](https://pypi.org/project/PyQRCode/).
 
